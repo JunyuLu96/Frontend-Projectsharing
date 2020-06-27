@@ -1,0 +1,8 @@
+{
+    "appService.zipIgnorePattern": [
+        "node_modules{,/**}",
+        ".vscode{,/**}"
+    ],
+    "appService.deploySubpath": ".",
+    "appService.defaultWebAppToDeploy": "/subscriptions/a7fe495d-19c9-4c2a-9307-0b56fa81389e/resourceGroups/appsvc_linux_centralus/providers/Microsoft.Web/sites/pspdemo"
+}
